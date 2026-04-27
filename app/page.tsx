@@ -85,7 +85,7 @@ export default function App() {
     }
   }, [mastered, hasMounted]);
 
-  const family = useMemo(() => ['Godan', 'Sudha', 'Pratyush'], []);
+  const family = useMemo(() => ['Godan', 'Sudha', 'Rajesh', 'Anu'], []);
   const currentQ = useMemo(() => CIVICS_DATA[index] || CIVICS_DATA[0], [index]);
 
   // FIX: Safely accessing the Record with string template
