@@ -49,7 +49,7 @@ const CIVICS_DATA = [
   { id: 23, q: "Who is one of your state's U.S. senators now?", a: "Mark Kelly", options: ["Katie Hobbs", "Mark Kelly", "Kyrsten Sinema", "John Roberts"], cat: "AZ Specific" },
   { id: 24, q: "How many voting members are in the House of Representatives?", a: "435", options: ["100", "270", "435", "538"], cat: "Government" },
   { id: 25, q: "How long is a term for a member of the House of Representatives?", a: "2 years", options: ["2 years", "4 years", "6 years", "Life"], cat: "Government" },
-  { id: 38, q: "What is the name of the President of the United States now?", a: "Joe Biden", options: ["Donald Trump", "Joe Biden", "Barack Obama", "Kamala Harris"], cat: "Government" },
+  { id: 38, q: "What is the name of the President of the United States now?", a: "Donald Trump", options: ["Donald Trump", "Joe Biden", "Barack Obama", "Kamala Harris"], cat: "Government" },
   { id: 39, q: "What is the name of the Vice President now?", a: "Kamala Harris", options: ["Mike Pence", "Kamala Harris", "Nancy Pelosi", "Joe Biden"], cat: "Government" },
   { id: 61, q: "Who is the Governor of your state now?", a: "Katie Hobbs", options: ["Mark Kelly", "Doug Ducey", "Katie Hobbs", "Kari Lake"], cat: "AZ Specific" },
   { id: 62, q: "What is the capital of your state?", a: "Phoenix", options: ["Tucson", "Flagstaff", "Phoenix", "Sedona"], cat: "AZ Specific" },
